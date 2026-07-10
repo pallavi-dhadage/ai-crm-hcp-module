@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+package-lock.json
+build/
+.cache/
+
+# IDE
+.vscode/
+.idea/

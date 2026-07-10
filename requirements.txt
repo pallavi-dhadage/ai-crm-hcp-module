@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pymysql
+alembic
+python-dotenv
+pydantic
+pydantic-settings
+langchain
+langchain-groq>=0.2.0
+langgraph
